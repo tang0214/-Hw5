@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <limits.h>
-
+aaaaaokofkokoo
 struct Edge
 {
     // This structure is equal to an edge. Edge contains two end points. These edges are directed edges so they
